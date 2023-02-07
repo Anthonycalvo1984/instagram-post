@@ -1,0 +1,21 @@
+.post{
+    border-width: 1px;
+    border-style: solid;
+    border-color: green;
+    width: 300px;
+    height: 400px;
+}
+
+section{
+    display: flex;
+    justify-content: center;
+}
+.cabecera-post{
+    border-width: 1px;
+    border-style: solid;
+    border-color: orangered;
+    height: 50px;
+}
+img{
+    width: 100%;
+}
